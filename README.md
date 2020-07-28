@@ -17,4 +17,4 @@ To use this script:
 
 PS: Unless you're me from summer 2020, please change the email message text 😉
 
-Enjoy! please reach out to me if you have any suggestions at linkedin.com/in/alexanderjabbour
+Enjoy! please reach out to me if you have any suggestions at www.linkedin.com/in/alexjabbour
