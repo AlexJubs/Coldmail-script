@@ -1,3 +1,4 @@
+# parsing script was developed jul 26, 2020 by Alex Jabbour
 import openpyxl
 from pathlib import Path
 
